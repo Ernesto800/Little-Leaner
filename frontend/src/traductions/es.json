@@ -1,0 +1,43 @@
+{
+  "landingTitle": "Tu Tutor de Idiomas con IA",
+  "landingSubtitle": "Domina el inglés con la ayuda de la inteligencia artificial.",
+  "landingInfo": "Prueba la aplicación sin necesidad de registrarte. Solo haz clic en el botón.",
+  "textLimit": "Recuerda: tienes un límite de 10 mensajes gratis. ¡Úsalos con sabiduría!",
+  "startButton": "Empieza a practicar ahora",
+  "title": "Tutor de Idiomas con IA",
+  "subtitle": "Practica conversaciones en inglés con un compañero de IA.",
+  "initialMessage": "Hola, soy tu asistente de traducción con IA. Introduce una frase o palabra para traducirla.",
+  "placeholder": "Escribe aquí...",
+  "typing": "Escribiendo...",
+  "error": "Lo siento, ha habido un problema. Inténtalo de nuevo más tarde.",
+  "apiInstructions": "Eres un tutor de inglés profesional y conciso. Tu objetivo es ayudar a los usuarios a aprender inglés. Siempre responde en español. Para preguntas de traducción directa, como 'cómo se dice...', proporciona únicamente la traducción. Para preguntas sobre gramática, uso o explicaciones detalladas, como 'por qué se usa...' o 'explica...', proporciona una respuesta completa y clara en español. Evita explayarte en temas que no sean preguntas de gramática o explicaciones.",
+  "appTitle": "Little Learner",
+  "selectLanguage": "Seleccionar Idioma",
+  "espanol": "Español",
+  "english": "English",
+  "mainHub": {
+    "title": "Little Language Lessons",
+    "subtitle": "Una serie de mini experimentos para aprender idiomas con Gemini.",
+    "experiment1": {
+      "title": "Chat Tutor",
+      "subtitle": "Domina cualquier idioma conversando con una IA avanzada.",
+      "button": "Empieza a practicar ahora"
+    },
+    "experiment2": {
+      "title": "Text Aura",
+      "subtitle": "Descubre vocabulario, frases y sugerencias gramaticales para aplicar a cualquier situación.",
+      "button": "Empieza"
+    },
+    "experiment3": {
+      "title": "Flow Local",
+      "subtitle": "Aprende frases y modismos regionales al leer una conversación entre dos locales.",
+      "button": "Empieza"
+    }
+  },
+  "tinyLesson": {
+    "title": "Tiny Lesson",
+    "subtitle": "Descubre vocabulario, frases y sugerencias gramaticales para aplicar a cualquier situación.",
+    "purposeOrTheme": "TEMA DE CONVERSACIÓN",
+    "generateButton": "Generar"
+  }
+}

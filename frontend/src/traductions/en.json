@@ -1,0 +1,43 @@
+{
+  "landingTitle": "Your AI Language Tutor",
+  "landingSubtitle": "Master English language with the help of artificial intelligence.",
+  "landingInfo": "Try the app without needing to sign up. Just click the button.",
+  "textLimit": "Remember: you have a limit of 10 free messages. Use them wisely!",
+  "startButton": "Start practicing now",
+  "title": "AI Language Tutor",
+  "subtitle": "Practice English conversations with an AI companion.",
+  "initialMessage": "Hello, I am your AI language tutor. What would you like to talk about today?",
+  "placeholder": "Write here...",
+  "typing": "Typing...",
+  "error": "Sorry, there was a problem. Please try again later.",
+  "apiInstructions": "You are an expert English tutor. Your main goal is to help the user improve their English skills. Respond to their messages in natural, conversational English. After each of your responses, provide a short, clear correction or a tip related to the user's last message. You can also offer a suggestion for how to continue the conversation. Do not act as a role-play character.",
+  "appTitle": "Little Learner",
+  "selectLanguage": "Select Language",
+  "espanol": "Español",
+  "english": "English",
+  "mainHub": {
+    "title": "Little Language Lessons",
+    "subtitle": "A series of mini-experiments to learn languages with Gemini.",
+    "experiment1": {
+      "title": "Chat Tutor",
+      "subtitle": "Master any language by chatting with an advanced AI.",
+      "button": "Start practicing now"
+    },
+    "experiment2": {
+      "title": "Text Aura",
+      "subtitle": "Discover vocabulary, phrases, and grammatical suggestions to apply to any situation.",
+      "button": "Start"
+    },
+    "experiment3": {
+      "title": "Flow Local",
+      "subtitle": "Learn regional phrases and idioms by reading a conversation between two locals.",
+      "button": "Start"
+    }
+  },
+    "tinyLesson": {
+    "title": "Tiny Lesson",
+    "subtitle": "Find relevant vocabulary, phrases, and grammar tips for any situation.",
+    "purposeOrTheme": "TOPIC OF CONVERSATION",
+    "generateButton": "Generate"
+  }
+}
