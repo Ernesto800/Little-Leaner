@@ -122,6 +122,9 @@ const analyzeText = async () => {
 </template>
 
 <style scoped>
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
 :root {
   --bg-color: #0b0d10;
   --panel-bg: #1a202c;
@@ -148,7 +151,6 @@ body {
   min-height: 100vh;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
 .container {
   min-height: 100vh;
